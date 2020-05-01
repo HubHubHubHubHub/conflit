@@ -1,0 +1,2 @@
+def coconut():
+	print("O")
